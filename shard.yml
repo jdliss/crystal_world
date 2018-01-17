@@ -1,0 +1,22 @@
+name: crystal_world
+version: 0.1.0
+
+authors:
+  - Jonathan Liss <jonacom@lissismore.com>
+
+targets:
+  crystal_world:
+    main: src/crystal_world.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+  topaz:
+    github: topaz-crystal/topaz
+    branch: master
+
+crystal: 0.24.1
+
+license: MIT
