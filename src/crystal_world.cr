@@ -1,4 +1,5 @@
-require "./crystal_world/*"
+require "./config"
 
 module CrystalWorld
+  Kemal.run
 end
