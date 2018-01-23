@@ -11,10 +11,11 @@ targets:
 dependencies:
   kemal:
     github: kemalcr/kemal
-    branch: master
 
   topaz:
     github: topaz-crystal/topaz
-    branch: master
+
+  pg:
+    github: will/crystal-pg
 
 crystal: 0.24.1

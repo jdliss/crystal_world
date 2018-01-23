@@ -3,4 +3,4 @@
 /bin/
 /.shards/
 *.dwarf
-crystal_world
+./crystal_world
