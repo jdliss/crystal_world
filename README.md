@@ -7,4 +7,3 @@ robot world in [Crystal](https://crystal-lang.org/)
 ```
 $ crystal run server.cr
 ```
-dfhagsjkdfgh
